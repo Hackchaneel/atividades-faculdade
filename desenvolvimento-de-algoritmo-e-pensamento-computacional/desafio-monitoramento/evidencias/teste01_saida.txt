@@ -1,0 +1,26 @@
+=== SISTEMA DE MONITORAMENTO DE TEMPERATURA ===
+
+Informe o limite de temperatura (-50 a 60 C): abc
+Entrada invalida! Digite um valor numerico.
+
+Informe o limite de temperatura (-50 a 60 C): 30
+Limite de temperatura definido: 30.0 C
+Dica: digite -999 a qualquer momento para encerrar manualmente.
+
+Leitura 1 - Temperatura: xyz
+Entrada invalida! Digite um numero.
+Leitura 1 - Temperatura: 20
+Temperatura dentro do limite.
+
+Leitura 2 - Temperatura: -999
+
+Encerramento manual solicitado pelo operador.
+
+===== RELATORIO FINAL =====
+Total de leituras validas : 1
+Temperatura media         : 20.00 C
+Maior temperatura         : 20.00 C
+Menor temperatura         : 20.00 C
+Leituras acima do limite  : 0
+Percentual acima do limite: 0.0%
+Motivo do encerramento    : Encerramento manual pelo operador (-999)
